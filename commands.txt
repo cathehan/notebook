@@ -1,0 +1,14 @@
+#create or update timestamp of a file
+touch <file>
+
+#read a file
+cat <file>
+
+#update a file
+nano <file>
+
+#^x or ^o will both let you save the file
+
+#move to rename and also to move or change the file extension
+mv <file> <newfilename>
+mv temp/<file name> ./<file name>
